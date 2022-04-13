@@ -1,0 +1,5 @@
+*.pyc
+priv.prv
+.DS_Store
+./*/.DS_Store
+*.dag
